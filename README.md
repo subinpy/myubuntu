@@ -1,4 +1,4 @@
-# myubuntu
+# 우분투에서 mp4 재생, 영상 크기 줄이려고 만든 레포
 
 Ubuntu 에서 자주 쓰는 작은 도구. sudo 없이 conda 만 있으면 된다 (Ubuntu 20.04 에서 확인).
 
